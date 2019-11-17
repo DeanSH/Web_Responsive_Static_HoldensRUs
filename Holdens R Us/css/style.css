@@ -1,0 +1,125 @@
+﻿/* 
+	CSS Style Support for Font Familys,Font Sizes, Margins, Borders, Padding, Image Heights and Widths,
+	Background colors, Font Colors, Positions and more! Naming convention are self explaining.
+	Created by Dean Stanley-Hunt 10/2017!
+*/
+
+.mymargincenter {
+margin-left: auto;
+margin-right: auto;
+}
+
+.myheadertext{
+	position:relative;
+	text-align:center;
+	color:silver;
+	font-family: 'Courgette', cursive;
+}
+
+.mynav{
+	background-color:white;
+}
+
+.myinfo {
+	padding:10px;
+	border:0px black solid;
+}
+
+.myinfoborder {
+	padding:7px;
+	border:1px black solid;
+}
+
+.myinfoimage{
+	background-color:white;
+	height:200px;
+}
+
+.myinfoimagestacked{
+	background-color:white;
+	height:200px;
+}
+
+.myinfotext{
+	color:silver;
+	font-family: 'Shrikhand', cursive;
+}
+
+.myfooter {
+	padding:1px;
+	border:0px black solid;
+}
+
+.myborder {
+	border:0px black solid;
+}
+
+.nopadding{
+	padding:0px;
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.myslide {
+	background-color:white;
+}
+
+.myslideimage{
+	height:500px;
+}
+
+.myslidetext{
+	color:red;
+	font-family: 'Shrikhand', cursive;
+}
+
+.mygallerylarge {
+	background-color:white;
+	height:550px;
+}
+
+.mygallerysmall {
+	background-color:white;
+	height:275px;
+}
+
+.mygallerysmalltext {
+	background-color:white;
+	height:275px;
+}
+
+.mygallerytext {
+	color:black;
+	font-family: 'Courgette', cursive;
+	font-size:x-small;
+}
+
+.mygalleryimages{
+	width:100%;
+	height:100%;
+}
+
+.mysocialmediaimages{
+	background-color:white;
+	width:50px;
+	height:50px;
+}
+
+.mycontactform {
+	background-color:silver;
+}
+
+.myscrollybox {
+	height:300px;
+	overflow-y: scroll;
+}
+
+.mygooglemap{
+	height:400px;
+	margin:auto;
+}
+
+#map {
+	height:100%;
+    width:100%;
+}
